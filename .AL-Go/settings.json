@@ -2,5 +2,10 @@
   "country": "us",
   "appFolders": [],
   "testFolders": [],
-  "bcptTestFolders": []
+  "bcptTestFolders": [],
+    "generateDependencyArtifact": true,
+    "DeployToMy-QA": {
+    "EnvironmentName": "QA",
+    "continuousDeployment": true
+  }
 }
