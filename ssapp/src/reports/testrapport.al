@@ -17,6 +17,11 @@ report 50101 "Report eoricountry PTE"
                 IncludeCaption = true;
 
             }
+
+        }
+        dataitem(Customer; Customer)
+        {
+
             column(EORI_Number; "EORI Number")
             {
                 IncludeCaption = true;
