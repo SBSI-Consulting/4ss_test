@@ -1,8 +1,12 @@
 {
-	"folders": [
+  "folders": [
 		{
-			"path": "."
+			"path": "testapp"
 		}
+    ,
+    {
+      "path": ".AL-Go"
+    }
 	],
 	"settings": {
 		"al.packageCachePath": [
