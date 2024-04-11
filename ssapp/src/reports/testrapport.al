@@ -1,9 +1,11 @@
 report 50101 "Report eoricountry PTE"
 {
     // Make the report searchable from Tell me under the Reports and Analysis category.
-    RDLCLayout = './StandardSalesInvoice.rdlc';
-    WordLayout = './StandardSalesInvoice.docx';
-    Caption = 'Sales - Invoice';
+    UsageCategory = ReportsAndAnalysis;
+    ApplicationArea = All;
+    CaptionML = ENU = 'Customer List';
+    WordLayout = 'Customer List  Report.docx';
+    RDLCLayout = 'Customer List  Report.rdlc';
     DefaultLayout = Word;
     EnableHyperlinks = true;
     dataset
