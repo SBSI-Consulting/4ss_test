@@ -6,7 +6,7 @@ pageextension 50001 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        Message('App publiée par :FOFANA Mohamed SBSI Consulting 35 Mordelles Fr');
+        Message('FOFANA Mohamed SBSI Consulting 35 Mordelles Fr');
     end;
 }
 
