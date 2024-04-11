@@ -23,18 +23,18 @@ report 50101 "Report eoricountry PTE"
 
             }
         }
-        dataitem(Totals; "Integer")
-        {
-            // maybe some dataitem properties here
+        /*   dataitem(Totals; "Integer")
+           {
+               // maybe some dataitem properties here
 
-            /*column(TotalNetAmount; Format(vTotalAmount, 0, AutoFormat.ResolveAutoFormat("Auto Format"::AmountFormat, Header."Currency Code")))
-            {
-            }
-            column(TotalVATBaseLCY; vTotalVATBaseLCY)
-            {
-            }*/
-        }
-
+               column(TotalNetAmount; Format(vTotalAmount, 0, AutoFormat.ResolveAutoFormat("Auto Format"::AmountFormat, Header."Currency Code")))
+               {
+               }
+               column(TotalVATBaseLCY; vTotalVATBaseLCY)
+               {
+               }
+           }
+   */
     }
 
 
