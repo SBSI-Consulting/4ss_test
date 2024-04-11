@@ -13,7 +13,7 @@
             "launchBrowser": true,
             "tenant": "4de7dd0a-1e5f-46c9-a7cf-f870e2911637",
             "enableLongRunningSqlStatements": true,
-            "enableSqlInformationDebugger": true
-        }
+             "enableSqlInformationDebugger": true
+        } 
     ]
 }
