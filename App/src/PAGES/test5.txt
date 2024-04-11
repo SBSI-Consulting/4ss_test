@@ -1,0 +1,7 @@
+{
+    "@odata.context": "https://api.businesscentral.dynamics.com/v2.0/6bc0bdda-9426-471f-a6cc-968322588dee/Sandbox/api/sbsiconsulting/Supply/v2.0/$metadata#companies(f7cfbd17-e1d8-ea11-a814-000d3a898443)/warehouseShipments/$entity",
+    "@odata.etag": "W/\"JzQ0O3NWQWg3dWYzaXh6RW1FMFZVYWZBa3lOVmhXdGRkSUZvcGYvcWIyKy9hc0k9MTswMDsn\"",
+    "Id": "41ae67f9-13bd-4da8-b8c5-e45e50f454a2",
+    "OfferNo": "1322",
+    "TrackingNo": "8984984984"
+}
