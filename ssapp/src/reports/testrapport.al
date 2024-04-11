@@ -3,6 +3,8 @@ report 50101 "Report eoricountry PTE"
     // Make the report searchable from Tell me under the Reports and Analysis category.
     UsageCategory = ReportsAndAnalysis;
     ApplicationArea = All;
+    CaptionML = ENU = 'Customer List';
+    WordLayout = 'Customer List Report.docx';
     dataset
     {
         dataitem(Customer; Customer)
@@ -18,5 +20,20 @@ report 50101 "Report eoricountry PTE"
 
             }
         }
+        dataitem(Totals; "Integer")
+        {
+            // maybe some dataitem properties here
+
+            /*column(TotalNetAmount; Format(vTotalAmount, 0, AutoFormat.ResolveAutoFormat("Auto Format"::AmountFormat, Header."Currency Code")))
+            {
+            }
+            column(TotalVATBaseLCY; vTotalVATBaseLCY)
+            {
+            }*/
+        }
+
     }
+
+
+
 }
