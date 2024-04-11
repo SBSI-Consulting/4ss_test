@@ -18,8 +18,15 @@ report 50101 "Report eoricountry PTE"
 
             }
 
-
             column(EORI_Number; "EORI Number")
+            {
+                IncludeCaption = true;
+
+            }
+        }
+        dataitem(Item; Item)
+        {
+            column(Tariff No.; Tariff No.)
             {
                 IncludeCaption = true;
 
