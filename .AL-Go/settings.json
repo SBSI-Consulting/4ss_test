@@ -3,6 +3,8 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
+    "generateDependencyArtifact": true,
+
   "DeployToMy-QA": {
     "EnvironmentName": "QA",
     "continuousDeployment": true
