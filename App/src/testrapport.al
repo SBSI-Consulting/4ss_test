@@ -26,7 +26,7 @@ report 50101 "Report eoricountry PTE"
         }
         dataitem(Item; Item)
         {
-            column(Tariff No.; Tariff No.)
+            column(Tariff_No.; Tariff No.)
             {
                 IncludeCaption = true;
 

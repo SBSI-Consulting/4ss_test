@@ -9,5 +9,6 @@
     "EnvironmentName": "QA",
     "continuousDeployment": true
   },
-  "repoVersion": "1.1"
+  "repoVersion": "1.1",
+"al.enableCodeAnalysis": true
 }
