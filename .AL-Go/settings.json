@@ -6,7 +6,7 @@
     "generateDependencyArtifact": true,
 
   "DeployToMy-QA": {
-    "EnvironmentName": "QA",
+    "EnvironmentName": "Test",
     "continuousDeployment": true
   },
   "repoVersion": "1.1",
